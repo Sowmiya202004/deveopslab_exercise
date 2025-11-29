@@ -1,0 +1,15 @@
+{"timestamp":499036,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":558482,"category":"serp","name":"impression","extra":{"provider":"google","is_shopping_page":"false","shopping_tab_displayed":"false","partner_code":"firefox-b-d","impression_id":"9beffa27-c840-48f9-a3da-05bb1ea978dd","tagged":"true","source":"urlbar"}}
+{"timestamp":559763,"category":"serp","name":"ad_impression","extra":{"impression_id":"9beffa27-c840-48f9-a3da-05bb1ea978dd","component":"ad_link","ads_visible":"0","ads_hidden":"0","ads_loaded":"1"}}
+{"timestamp":627649,"category":"serp","name":"engagement","extra":{"target":"incontent_searchbox","impression_id":"9beffa27-c840-48f9-a3da-05bb1ea978dd","action":"clicked"}}
+{"timestamp":636738,"category":"serp","name":"engagement","extra":{"impression_id":"9beffa27-c840-48f9-a3da-05bb1ea978dd","action":"submitted","target":"incontent_searchbox"}}
+{"timestamp":1023191,"category":"serp","name":"impression","extra":{"shopping_tab_displayed":"false","tagged":"true","source":"urlbar","provider":"google","is_shopping_page":"false","partner_code":"firefox-b-d","impression_id":"20e31aaa-f2e6-4400-bfac-fb16517c4194"}}
+{"timestamp":1138400,"category":"serp","name":"engagement","extra":{"target":"incontent_searchbox","action":"submitted","impression_id":"20e31aaa-f2e6-4400-bfac-fb16517c4194"}}
+{"timestamp":1139818,"category":"serp","name":"impression","extra":{"impression_id":"3e0d8d88-7e10-4a74-9271-1c27cadeb4f4","provider":"google","shopping_tab_displayed":"false","is_shopping_page":"false","tagged":"true","source":"follow_on_from_refine_on_incontent_search","partner_code":"firefox-b-d"}}
+{"timestamp":1531987,"category":"serp","name":"abandonment","extra":{"impression_id":"3e0d8d88-7e10-4a74-9271-1c27cadeb4f4","reason":"navigation"}}
+{"timestamp":1639307,"category":"serp","name":"impression","extra":{"is_shopping_page":"false","partner_code":"firefox-b-d","source":"tabhistory","shopping_tab_displayed":"false","impression_id":"a1662c7e-a7b2-4e87-9197-e203b14249e3","tagged":"true","provider":"google"}}
+{"timestamp":1642283,"category":"serp","name":"engagement","extra":{"action":"clicked","impression_id":"a1662c7e-a7b2-4e87-9197-e203b14249e3","target":"incontent_searchbox"}}
+{"timestamp":1654755,"category":"serp","name":"engagement","extra":{"action":"clicked","impression_id":"a1662c7e-a7b2-4e87-9197-e203b14249e3","target":"non_ads_link"}}
+{"timestamp":1655138,"category":"serp","name":"impression","extra":{"provider":"google","shopping_tab_displayed":"false","is_shopping_page":"false","source":"unknown","tagged":"true","impression_id":"e8b37c39-760d-46d3-a6f1-c38e15c75d7b","partner_code":"firefox-b-d"}}
+{"timestamp":1656691,"category":"serp","name":"ad_impression","extra":{"ads_hidden":"0","component":"ad_link","ads_loaded":"1","impression_id":"e8b37c39-760d-46d3-a6f1-c38e15c75d7b","ads_visible":"0"}}
+{"timestamp":1657905,"category":"serp","name":"engagement","extra":{"target":"non_ads_link","impression_id":"e8b37c39-760d-46d3-a6f1-c38e15c75d7b","action":"clicked"}}
