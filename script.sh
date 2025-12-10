@@ -1,4 +1,0 @@
-Date=$(date)
-echo "$Date"
-
-
