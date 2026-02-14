@@ -5,13 +5,29 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                echo 'Source code checked out from GitHub'
+                echo 'Checking out source code'
+                // git url: 'https://github.com/your-repo.git', branch: 'main'
             }
         }
 
         stage('Build') {
             steps {
                 echo 'Build stage running'
+                // sh 'mvn clean compile'
+            }
+        }
+
+        stage('Test') {
+            steps {
+                echo 'Running tests'
+                // sh 'mvn test'
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                echo 'Deploying application'
+                // sh './deploy.sh'
             }
         }
     }
